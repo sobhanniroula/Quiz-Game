@@ -5,13 +5,18 @@
 }
 
 body {
-    background-image: url(img/background.jpeg);
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)) ,url(img/background.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Ubuntu', sans-serif;
     text-transform: uppercase;
+}
+
+img {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
 }
 
 /* whole-body div */
