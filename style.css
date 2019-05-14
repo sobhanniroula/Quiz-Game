@@ -72,9 +72,9 @@ i {
    margin-left: 5%;
 }
 
-a {
+#button-area button {
     width: 80%;
-  margin: 20px;
+    margin: 20px;
     border-radius: 10px;
 }
 
