@@ -1,5 +1,5 @@
 // Immediately Invoked Function Expression (for safety reasons):
-//(function(){
+(function(){
     
 
 
@@ -154,4 +154,4 @@ document.getElementById('new-game-btn').addEventListener('click', first);
     
     
     
-//})();
+})();
